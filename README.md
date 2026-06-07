@@ -39,10 +39,10 @@ My main stack is **Python** (scikit-learn, gradient-boosting models, SHAP), and 
 
 ## My Github stats
 <a href="https://github.com/Oussama97bz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama97bz&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama97bz&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Oussama97bz's top languages" />
 </a>
 <a href="https://github.com/Oussama97bz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama97bz&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Oussama97bz's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama97bz&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&icon_color=4194FD&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" alt="Oussama97bz's github stats" />
 </a>
 
 <br /><br />

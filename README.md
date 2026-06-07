@@ -59,7 +59,7 @@ My main stack is **Python** (scikit-learn, gradient-boosting models, SHAP), and 
   <a href="https://www.researchgate.net/profile/YOUR-PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?&style=flat-square&logo=researchgate&logoColor=white&color=071A2C" alt="ResearchGate">
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+  <a href="mailto:benzianeoussama34021@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
 </div>

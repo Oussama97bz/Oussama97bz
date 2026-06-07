@@ -50,7 +50,7 @@ My main stack is **Python** (scikit-learn, gradient-boosting models, SHAP), and 
 <h2><i>Follow me:</i></h2>
 <div align="center">
   <!-- Replace each href with your own profile link. Delete any line you don't use. -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/oussama-benziane-2318bb1b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=YOUR-ID" target="_blank">

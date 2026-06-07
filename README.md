@@ -38,13 +38,11 @@ My main stack is **Python** (scikit-learn, gradient-boosting models, SHAP), and 
 <br /><br />
 
 ## My Github stats
-<a href="https://github.com/Oussama97bz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama97bz&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Oussama97bz's top languages" />
-</a>
-<a href="https://github.com/Oussama97bz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama97bz&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&icon_color=4194FD&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" alt="Oussama97bz's github stats" />
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Oussama97bz?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2C&color=4194FD" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Oussama97bz?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2C&color=4194FD" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Oussama97bz&style=for-the-badge&color=4194FD&label=PROFILE+VIEWS" alt="profile views" />
+</p>
 <br /><br />
 
 <h2><i>Follow me:</i></h2>

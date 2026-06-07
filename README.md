@@ -15,7 +15,7 @@
     <tr>
       <td align="center">
         <br />
-        <img src="https://skillicons.dev/icons?i=python,anaconda,vscode,git,github,latex,linux&perline=7" alt="skills" />
+        <img src="https://skillicons.dev/icons?i=python,anaconda,vscode,git,github,latex&perline=7" alt="skills" />
         <br /><br />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=071A2C" alt="scikit-learn" />
         <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square&logoColor=white&color=071A2C" alt="XGBoost" />
